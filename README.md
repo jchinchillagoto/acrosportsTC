@@ -2,7 +2,12 @@ Terms and Conditions for SMS Messaging
 
 Effective Date: November 13, 2026
 
-By opting in to receive SMS/text messages from AcroSports and The Fieldhouse, you agree to the following Terms and Conditions.
+By providing your mobile number and opting in, you agree to receive customer care messages from AcroSports.
+
+Program Description: AcroSports sends customer care messages only.
+Message Frequency: Message frequency may vary. On average, 1-2 messages per month.
+Message and Data Rates: Message and data rates may apply.
+Privacy Policy: https://github.com/jchinchillagoto/acrosportsPP
 
 Business Information
 
